@@ -1,0 +1,16 @@
+.h{
+    width: 80%;
+    font-size:  22px;
+}
+body{
+    color:white;
+    background-color: rgb(226, 68, 173);
+}
+.y,#j,#b{
+color: white;
+}
+#camera{
+    width:350px;
+    height:300px;
+    border:2px dashed black;
+}
